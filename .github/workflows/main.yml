@@ -33,6 +33,5 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: |
-             pgumis /
-github-action 
+             pgumis/lab:github-action 
           
